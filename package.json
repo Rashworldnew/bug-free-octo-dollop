@@ -54,7 +54,7 @@
     "env-cmd": "11.0.0",
     "fdir": "^6.5.0",
     "gray-matter": "^4.0.3",
-    "yaml": "^2.8.2"
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "cheerio": "1.2.0",
@@ -75,7 +75,7 @@
     "parse-diff": "^0.11.1",
     "prettier": "3.8.1",
     "tempy": "^3.2.0",
-    "yaml": "^2.8.2",
+    "yaml": "^2.8.3",
     "yargs": "^18.0.0"
   }
 }
